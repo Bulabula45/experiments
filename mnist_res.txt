@@ -1,0 +1,299 @@
+----------------------------------------MNIST_layers----------------------------------------
+Fold 1
+Train Fold/Epoch: 1/1 	Loss: 0.091347
+Train Fold/Epoch: 1/2 	Loss: 0.062791
+Train Fold/Epoch: 1/3 	Loss: 0.021226
+Train Fold/Epoch: 1/4 	Loss: 0.008696
+Train Fold/Epoch: 1/5 	Loss: 0.023198
+
+Test set for fold 1: Average loss: 0.0091, Accuracy: 11841/12032 (98.4126%)
+
+Fold 2
+Train Fold/Epoch: 2/1 	Loss: 0.040266
+Train Fold/Epoch: 2/2 	Loss: 0.108545
+Train Fold/Epoch: 2/3 	Loss: 0.062218
+Train Fold/Epoch: 2/4 	Loss: 0.000789
+Train Fold/Epoch: 2/5 	Loss: 0.033778
+
+Test set for fold 2: Average loss: 0.0109, Accuracy: 11795/12032 (98.0303%)
+
+Fold 3
+Train Fold/Epoch: 3/1 	Loss: 0.067861
+Train Fold/Epoch: 3/2 	Loss: 0.005796
+Train Fold/Epoch: 3/3 	Loss: 0.031060
+Train Fold/Epoch: 3/4 	Loss: 0.009925
+Train Fold/Epoch: 3/5 	Loss: 0.010602
+
+Test set for fold 3: Average loss: 0.0090, Accuracy: 11833/12032 (98.3461%)
+
+Fold 4
+Train Fold/Epoch: 4/1 	Loss: 0.064484
+Train Fold/Epoch: 4/2 	Loss: 0.069244
+Train Fold/Epoch: 4/3 	Loss: 0.006972
+Train Fold/Epoch: 4/4 	Loss: 0.018593
+Train Fold/Epoch: 4/5 	Loss: 0.047981
+
+Test set for fold 4: Average loss: 0.0144, Accuracy: 11747/12032 (97.6313%)
+
+Fold 5
+Train Fold/Epoch: 5/1 	Loss: 0.012581
+Train Fold/Epoch: 5/2 	Loss: 0.122214
+Train Fold/Epoch: 5/3 	Loss: 0.005570
+Train Fold/Epoch: 5/4 	Loss: 0.013492
+Train Fold/Epoch: 5/5 	Loss: 0.005658
+
+Test set for fold 5: Average loss: 0.0094, Accuracy: 11820/12032 (98.2380%)
+
+Average accuracy in 5 folds validation set is :0.9813
+
+
+----------------------------------------max_neighbor_MNIST_layers----------------------------------------
+Fold 1
+Train Fold/Epoch: 1/1 	Loss: 0.015511
+Train Fold/Epoch: 1/2 	Loss: 0.013724
+Train Fold/Epoch: 1/3 	Loss: 0.013705
+Train Fold/Epoch: 1/4 	Loss: 0.046410
+Train Fold/Epoch: 1/5 	Loss: 0.085688
+
+Test set for fold 1: Average loss: 0.0223, Accuracy: 11661/12032 (96.9166%)
+
+Fold 2
+Train Fold/Epoch: 2/1 	Loss: 0.224284
+Train Fold/Epoch: 2/2 	Loss: 0.296732
+Train Fold/Epoch: 2/3 	Loss: 0.009643
+Train Fold/Epoch: 2/4 	Loss: 0.054665
+Train Fold/Epoch: 2/5 	Loss: 0.029130
+
+Test set for fold 2: Average loss: 0.0143, Accuracy: 11768/12032 (97.8059%)
+
+Fold 3
+Train Fold/Epoch: 3/1 	Loss: 0.204359
+Train Fold/Epoch: 3/2 	Loss: 0.001214
+Train Fold/Epoch: 3/3 	Loss: 0.011535
+Train Fold/Epoch: 3/4 	Loss: 0.009943
+Train Fold/Epoch: 3/5 	Loss: 0.015001
+
+Test set for fold 3: Average loss: 0.0149, Accuracy: 11748/12032 (97.6396%)
+
+Fold 4
+Train Fold/Epoch: 4/1 	Loss: 0.203772
+Train Fold/Epoch: 4/2 	Loss: 0.215728
+Train Fold/Epoch: 4/3 	Loss: 0.125964
+Train Fold/Epoch: 4/4 	Loss: 0.059003
+Train Fold/Epoch: 4/5 	Loss: 0.006810
+
+Test set for fold 4: Average loss: 0.0162, Accuracy: 11756/12032 (97.7061%)
+
+Fold 5
+Train Fold/Epoch: 5/1 	Loss: 0.138387
+Train Fold/Epoch: 5/2 	Loss: 0.055417
+Train Fold/Epoch: 5/3 	Loss: 0.190756
+Train Fold/Epoch: 5/4 	Loss: 0.095705
+Train Fold/Epoch: 5/5 	Loss: 0.019408
+
+Test set for fold 5: Average loss: 0.0156, Accuracy: 11757/12032 (97.7144%)
+
+Average accuracy in 5 folds validation set is :0.9756
+
+
+----------------------------------------deeper_MNIST_layers_with_dropout----------------------------------------
+Fold 1
+Train Fold/Epoch: 1/1 	Loss: 0.129657
+Train Fold/Epoch: 1/2 	Loss: 0.044507
+Train Fold/Epoch: 1/3 	Loss: 0.022635
+Train Fold/Epoch: 1/4 	Loss: 0.073177
+Train Fold/Epoch: 1/5 	Loss: 0.023849
+
+Test set for fold 1: Average loss: 0.0091, Accuracy: 11854/12032 (98.5206%)
+
+Fold 2
+Train Fold/Epoch: 2/1 	Loss: 0.033968
+Train Fold/Epoch: 2/2 	Loss: 0.094168
+Train Fold/Epoch: 2/3 	Loss: 0.008944
+Train Fold/Epoch: 2/4 	Loss: 0.012000
+Train Fold/Epoch: 2/5 	Loss: 0.041555
+
+Test set for fold 2: Average loss: 0.0058, Accuracy: 11897/12032 (98.8780%)
+
+Fold 3
+Train Fold/Epoch: 3/1 	Loss: 0.181583
+Train Fold/Epoch: 3/2 	Loss: 0.000887
+Train Fold/Epoch: 3/3 	Loss: 0.006114
+Train Fold/Epoch: 3/4 	Loss: 0.034068
+Train Fold/Epoch: 3/5 	Loss: 0.006883
+
+Test set for fold 3: Average loss: 0.0068, Accuracy: 11890/12032 (98.8198%)
+
+Fold 4
+Train Fold/Epoch: 4/1 	Loss: 0.014272
+Train Fold/Epoch: 4/2 	Loss: 0.024410
+Train Fold/Epoch: 4/3 	Loss: 0.105481
+Train Fold/Epoch: 4/4 	Loss: 0.009660
+Train Fold/Epoch: 4/5 	Loss: 0.047021
+
+Test set for fold 4: Average loss: 0.0104, Accuracy: 11827/12032 (98.2962%)
+
+Fold 5
+Train Fold/Epoch: 5/1 	Loss: 0.037717
+Train Fold/Epoch: 5/2 	Loss: 0.167757
+Train Fold/Epoch: 5/3 	Loss: 0.098821
+Train Fold/Epoch: 5/4 	Loss: 0.263604
+Train Fold/Epoch: 5/5 	Loss: 0.024091
+
+Test set for fold 5: Average loss: 0.0080, Accuracy: 11859/12032 (98.5622%)
+
+Average accuracy in 5 folds validation set is :0.9862
+
+
+----------------------------------------No_Residual_MNIST_layers----------------------------------------
+Fold 1
+Train Fold/Epoch: 1/1 	Loss: 0.006856
+Train Fold/Epoch: 1/2 	Loss: 0.028706
+Train Fold/Epoch: 1/3 	Loss: 0.021099
+Train Fold/Epoch: 1/4 	Loss: 0.019447
+Train Fold/Epoch: 1/5 	Loss: 0.011429
+
+Test set for fold 1: Average loss: 0.0107, Accuracy: 11831/12032 (98.3295%)
+
+Fold 2
+Train Fold/Epoch: 2/1 	Loss: 0.034149
+Train Fold/Epoch: 2/2 	Loss: 0.072253
+Train Fold/Epoch: 2/3 	Loss: 0.014493
+Train Fold/Epoch: 2/4 	Loss: 0.074233
+Train Fold/Epoch: 2/5 	Loss: 0.020623
+
+Test set for fold 2: Average loss: 0.0134, Accuracy: 11792/12032 (98.0053%)
+
+Fold 3
+Train Fold/Epoch: 3/1 	Loss: 0.096642
+Train Fold/Epoch: 3/2 	Loss: 0.112647
+Train Fold/Epoch: 3/3 	Loss: 0.036137
+Train Fold/Epoch: 3/4 	Loss: 0.030062
+Train Fold/Epoch: 3/5 	Loss: 0.002468
+
+Test set for fold 3: Average loss: 0.0128, Accuracy: 11788/12032 (97.9721%)
+
+Fold 4
+Train Fold/Epoch: 4/1 	Loss: 0.218842
+Train Fold/Epoch: 4/2 	Loss: 0.021908
+Train Fold/Epoch: 4/3 	Loss: 0.018512
+Train Fold/Epoch: 4/4 	Loss: 0.006871
+Train Fold/Epoch: 4/5 	Loss: 0.014011
+
+Test set for fold 4: Average loss: 0.0128, Accuracy: 11786/12032 (97.9555%)
+
+Fold 5
+Train Fold/Epoch: 5/1 	Loss: 0.031066
+Train Fold/Epoch: 5/2 	Loss: 0.027787
+Train Fold/Epoch: 5/3 	Loss: 0.043647
+Train Fold/Epoch: 5/4 	Loss: 0.005270
+Train Fold/Epoch: 5/5 	Loss: 0.013131
+
+Test set for fold 5: Average loss: 0.0093, Accuracy: 11839/12032 (98.3959%)
+
+Average accuracy in 5 folds validation set is :0.9813
+----------------------------------------Residual_MNIST_layers----------------------------------------
+Fold 1
+Train Fold/Epoch: 1/1 	Loss: 0.082325
+Train Fold/Epoch: 1/2 	Loss: 0.084789
+Train Fold/Epoch: 1/3 	Loss: 0.105515
+Train Fold/Epoch: 1/4 	Loss: 0.021575
+Train Fold/Epoch: 1/5 	Loss: 0.000492
+
+Test set for fold 1: Average loss: 0.0111, Accuracy: 11839/12032 (98.3959%)
+
+Fold 2
+Train Fold/Epoch: 2/1 	Loss: 0.062263
+Train Fold/Epoch: 2/2 	Loss: 0.018821
+Train Fold/Epoch: 2/3 	Loss: 0.055043
+Train Fold/Epoch: 2/4 	Loss: 0.088995
+Train Fold/Epoch: 2/5 	Loss: 0.035852
+
+Test set for fold 2: Average loss: 0.0129, Accuracy: 11809/12032 (98.1466%)
+
+Fold 3
+Train Fold/Epoch: 3/1 	Loss: 0.171276
+Train Fold/Epoch: 3/2 	Loss: 0.104284
+Train Fold/Epoch: 3/3 	Loss: 0.107952
+Train Fold/Epoch: 3/4 	Loss: 0.011625
+Train Fold/Epoch: 3/5 	Loss: 0.031896
+
+Test set for fold 3: Average loss: 0.0108, Accuracy: 11815/12032 (98.1965%)
+
+Fold 4
+Train Fold/Epoch: 4/1 	Loss: 0.021314
+Train Fold/Epoch: 4/2 	Loss: 0.046585
+Train Fold/Epoch: 4/3 	Loss: 0.010657
+Train Fold/Epoch: 4/4 	Loss: 0.186145
+Train Fold/Epoch: 4/5 	Loss: 0.000269
+
+Test set for fold 4: Average loss: 0.0094, Accuracy: 11834/12032 (98.3544%)
+
+Fold 5
+Train Fold/Epoch: 5/1 	Loss: 0.082010
+Train Fold/Epoch: 5/2 	Loss: 0.029432
+Train Fold/Epoch: 5/3 	Loss: 0.003513
+Train Fold/Epoch: 5/4 	Loss: 0.022249
+Train Fold/Epoch: 5/5 	Loss: 0.028644
+
+Test set for fold 5: Average loss: 0.0125, Accuracy: 11785/12032 (97.9471%)
+
+Average accuracy in 5 folds validation set is :0.9821
+
+----------------------------------------Residual_MNIST_layers_with_coefficient----------------------------------------
+Fold 1
+Parameter containing:
+tensor([0.0839], requires_grad=True)
+Train Fold/Epoch: 1/1 	Loss: 0.005158
+Train Fold/Epoch: 1/2 	Loss: 0.017944
+Train Fold/Epoch: 1/3 	Loss: 0.050655
+Train Fold/Epoch: 1/4 	Loss: 0.022059
+Train Fold/Epoch: 1/5 	Loss: 0.017612
+
+Test set for fold 1: Average loss: 0.0104, Accuracy: 11830/12032 (98.3211%)
+
+Fold 2
+Parameter containing:
+tensor([0.9239], requires_grad=True)
+Train Fold/Epoch: 2/1 	Loss: 0.112655
+Train Fold/Epoch: 2/2 	Loss: 0.116159
+Train Fold/Epoch: 2/3 	Loss: 0.004233
+Train Fold/Epoch: 2/4 	Loss: 0.022805
+Train Fold/Epoch: 2/5 	Loss: 0.071184
+
+Test set for fold 2: Average loss: 0.0094, Accuracy: 11843/12032 (98.4292%)
+
+Fold 3
+Parameter containing:
+tensor([0.2611], requires_grad=True)
+Train Fold/Epoch: 3/1 	Loss: 0.118088
+Train Fold/Epoch: 3/2 	Loss: 0.007178
+Train Fold/Epoch: 3/3 	Loss: 0.067666
+Train Fold/Epoch: 3/4 	Loss: 0.023525
+Train Fold/Epoch: 3/5 	Loss: 0.002811
+
+Test set for fold 3: Average loss: 0.0124, Accuracy: 11826/12032 (98.2879%)
+
+Fold 4
+Parameter containing:
+tensor([0.6715], requires_grad=True)
+Train Fold/Epoch: 4/1 	Loss: 0.065080
+Train Fold/Epoch: 4/2 	Loss: 0.013862
+Train Fold/Epoch: 4/3 	Loss: 0.036561
+Train Fold/Epoch: 4/4 	Loss: 0.005319
+Train Fold/Epoch: 4/5 	Loss: 0.054912
+
+Test set for fold 4: Average loss: 0.0105, Accuracy: 11839/12032 (98.3959%)
+
+Fold 5
+Parameter containing:
+tensor([0.6196], requires_grad=True)
+Train Fold/Epoch: 5/1 	Loss: 0.138816
+Train Fold/Epoch: 5/2 	Loss: 0.008406
+Train Fold/Epoch: 5/3 	Loss: 0.009077
+Train Fold/Epoch: 5/4 	Loss: 0.099548
+Train Fold/Epoch: 5/5 	Loss: 0.011226
+
+Test set for fold 5: Average loss: 0.0135, Accuracy: 11805/12032 (98.1134%)
+
+Average accuracy in 5 folds validation set is :0.9831
